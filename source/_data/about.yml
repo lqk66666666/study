@@ -33,7 +33,7 @@
     list:
       - desc: EE,电气工程与自动化专业
         color: "#357ef5"
-    img: https://bu.dusays.com/2023/04/21/644287166329b.png
+    img: /img/EE.png
   statistic:
     link: /archives
     text: 文章隧道
@@ -53,7 +53,7 @@
   personalities:
     author_name: 竞选者
     personality_type: ENFP-T
-    photo_url: https://pic.rmb.bdstatic.com/547011bc75805864c2c3c86f484511c6.jpeg@wm_2,t_55m+5a625Y+3L+Wkp+ays+aWh+aXhQ==,fc_ffffff,ff_U2ltSGVp
+    photo_url: https://img2.baidu.com/it/u=2751080138,3005993943&fm=253&fmt=auto&app=120&f=JPEG?w=1280&h=800
     personality_img: https://www.16personalities.com/static/images/personality-types/avatars/enfp-campaigner.svg
     name_url: https://www.16personalities.com/ch/enfp-%E4%BA%BA%E6%A0%BC
   maxim:
@@ -90,9 +90,10 @@
         cover: https://bu.dusays.com/2023/05/30/64760e38d651a.webp
   like:
     like_tips: 关注偏好
-    like_title: 数码科技
-    like_bg: https://bu.dusays.com/2022/12/06/638f5f05ce1f7.jpg
-    like_bottom: 手机、电脑软硬件
+    like_title: 数码科技 编程娱乐
+    # like_bg: https://bu.dusays.com/2022/12/06/638f5f05ce1f7.jpg
+    like_bg: https://n.sinaimg.cn/sinakd20200709ac/267/w640h427/20200709/812a-iwasyei6020060.jpg
+    like_bottom: 手机、电脑软硬件,电脑装机
   music:
     music_tips: 音乐偏好
     music_title: 薛之谦、欢快、华语流行
